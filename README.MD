@@ -29,3 +29,4 @@
 * openjdk version "11.0.9.1" 2020-11-04
 * OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.9.1+1)
 * OpenJDK Client VM AdoptOpenJDK (build 11.0.9.1+1, mixed mode)
+* IntelliJ IDEA Community Edition 2019.3.5
